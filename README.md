@@ -43,7 +43,7 @@ You will need valid credentials for the SecureTrust portal that are enabled for 
 ### License
 Copyright 2021 SecureTrust Inc.
 
-This repository uses the UnLicense. See [LICENSE](./LICENSE) for details.
+This repository uses the Unlicense. See [LICENSE](./LICENSE) for details.
 
 ### SecureTrust Portal
 The SecureTrust portal is can be accessed at (https://portal.securetrust.com/)
