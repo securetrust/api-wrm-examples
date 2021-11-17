@@ -27,7 +27,7 @@ The [wrmapi-merchant_list-csv.py](./python/wrmapi-merchant_list-csv.py) file sho
 
 ## Credentials
 
-You will need valid credentials for the SecureTrust portal that are enabled for API access. The example scripts store the credentials in a .json file: `creds.json`. This file must contain properly formatted JSON file that matches the requirements for the [SecureTrust Portal Token API](https://developer.securetrust.com/openapi/token/operation/getToken/) getToken method.
+You will need valid credentials for the SecureTrust portal that are enabled for API access. The example scripts store the credentials in a .json file: `creds.json`. This file must contain properly formatted JSON that matches the requirements for the [SecureTrust Portal Token API](https://developer.securetrust.com/openapi/token/operation/getToken/) getToken method.
 
 ### Example creds.json
 
